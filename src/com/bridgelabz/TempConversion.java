@@ -35,6 +35,7 @@ public class TempConversion {
         * Method to print converted value of temperature
         */
     static void output(double val, String word) {
+
         System.out.printf("%s value: %.2f", word, val);
     }
 
