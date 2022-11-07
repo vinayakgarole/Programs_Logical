@@ -35,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DayOfMonth">
+  <component name="RunManager" selected="Application.MonthlyPayment">
     <configuration name="DayOfMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.DayOfMonth" />
       <module name="Programs_Logical" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SqrtNewtonMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.SqrtNewtonMethod" />
+    <configuration name="MonthlyPayment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.MonthlyPayment" />
       <module name="Programs_Logical" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapNibbles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.SwapNibbles" />
+    <configuration name="SqrtNewtonMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.SqrtNewtonMethod" />
       <module name="Programs_Logical" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MonthlyPayment" />
         <item itemvalue="Application.DayOfMonth" />
         <item itemvalue="Application.SqrtNewtonMethod" />
         <item itemvalue="Application.TempConversion" />
         <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.SwapNibbles" />
       </list>
     </recent_temporary>
   </component>
